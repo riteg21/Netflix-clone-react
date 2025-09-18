@@ -1,4 +1,4 @@
-# IN PROCESS...
+# ⚙️ ...IN PROCESS... ⚙️
 
 This project was built with and demonstrates proficiency in:
 
